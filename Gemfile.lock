@@ -35,4 +35,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 1.0.0)
+  jekyll (~> 1)
